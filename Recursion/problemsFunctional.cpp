@@ -34,6 +34,6 @@ int main(){
     swappy(arr,0,n);
     string s ;
     cin>>s;
-    cout<<isPalindrome(s,0);
+    cout<<isPalindrome(s,
 
 }
